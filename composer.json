@@ -1,5 +1,8 @@
 {
     "require": {
         "drewm/mailchimp-api": "api-v3-dev"
-    }
+    },
+	"config": {
+		"preferred-install": "dist"
+	}
 }
