@@ -1,0 +1,5 @@
+{
+    "require": {
+        "drewm/mailchimp-api": "api-v3-dev"
+    }
+}
